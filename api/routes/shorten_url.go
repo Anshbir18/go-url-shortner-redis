@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/Anshbir18/go-url-shortner-redis/api/helpers"
+	"github.com/Anshbir18/go-url-shortner-redis/helpers"
 	"github.com/asaskevich/govalidator"
 	"github.com/gin-gonic/gin"
 )
